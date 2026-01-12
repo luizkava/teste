@@ -1,4 +1,4 @@
-from utils import somar, subtrair
+from utils import somar, subtrair, multiplicar
 
 def main():
     print("Calculadora Simples !")
@@ -7,6 +7,7 @@ def main():
 
     print(f"Soma: {somar(a, b)}")
     print(f"Subtração: {subtrair(a, b)}")
+    print(f"multiplaicar: {multiplicar(a, b)}")
 
 if __name__ == "__main__":
     main()
