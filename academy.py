@@ -1,7 +1,7 @@
 from utils import somar, subtrair
 
 def main():
-    print("=== Calculadora Simples ===")
+    print("Calculadora Simples !")
     a = int(input("Digite o primeiro número: "))
     b = int(input("Digite o segundo número: "))
 
