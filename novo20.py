@@ -1,1 +1,1 @@
-print(f"novo:")
+print("novo:")

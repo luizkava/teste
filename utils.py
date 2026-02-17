@@ -7,3 +7,7 @@ def subtrair(a, b):
 
 def multiplicar (a,b):
     return a * b
+
+
+def adicionar(a):
+    return a + 1
